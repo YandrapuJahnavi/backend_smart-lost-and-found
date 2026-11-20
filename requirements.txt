@@ -2,7 +2,6 @@ asgiref==3.12.1
 blinker==1.9.0
 click==8.3.3
 colorama==0.4.6
-comtypes==1.4.16
 Django==6.1
 django-cors-headers==4.9.0
 djangorestframework==3.18.1
@@ -18,11 +17,8 @@ pillow==13.0.0
 pyjokes==0.8.3
 PyJWT==2.14.0
 PyMySQL==1.2.4
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
-pyttsx3==2.99
-pywin32==311
 six==1.17.0
 sqlparse==0.6.0
 tabulate==0.10.0
